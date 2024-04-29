@@ -122,3 +122,83 @@ div{
     top: 657px;
     left: 805px;
 }
+.t3 {
+    position: absolute;
+    top: 693px;
+    left: 827px;
+}
+
+
+.re3 {
+    width: 55px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 715px;
+    left: 830px;
+}
+.t4 {    
+    position: absolute;
+    top: 750px;
+    left: 845px;
+}
+.re4 {
+    width: 70px;
+    height: 28px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 530px;
+    left: 825px;
+}
+.t1 {
+    position: absolute;
+    top: 565px;
+    left: 830px;
+}
+
+
+.re5 {
+    width: 110px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #333;
+    text-decoration-color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    top: 775px;
+    left: 805px;
+}
+.t5 {
+    position: absolute;
+    top: 810px;
+    left: 785px;
+}
+
+.re6 {
+    width: 110px;
+    height: 30px;
+    border-radius: 20px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position: absolute;
+    top: 850px;
+    left: 670px;
+}
+
+.p {
+    font-size: 300px;
+}
+
