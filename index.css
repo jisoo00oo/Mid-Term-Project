@@ -202,3 +202,152 @@ div{
     font-size: 300px;
 }
 
+.video{
+    position: absolute;
+    top: 280px;
+    left: 30px;
+}
+.video2 {
+    position: absolute;
+    top: 280px;
+    right: 250px;
+}
+
+.text1{
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 170px;
+}
+.text2 {
+    font-family: 'Cafe24 Ohsquare';
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    right: 350px;
+}
+
+.insta {
+    position: absolute;
+    top: 550px;
+    right: 800px;
+}
+.github {
+    position: absolute;
+    top: 560px;
+    right: 640px;
+}
+.blog {
+    position: absolute;
+    top: 560px;
+    right: 473px;
+}
+
+.rr {
+    width: 110px;
+    height: 3px;
+    border-radius: 20px;
+    background-color: #8894df;
+    position: absolute;
+    top: 600px;
+    right: 790px;
+    opacity: 0.0;
+}
+.rr:hover {
+    background-color: #333;
+    opacity: 1.0;
+}
+
+.rr2 {
+    width: 110px;
+    height: 3px;
+    border-radius: 20px;
+    background-color: #8894df;
+    position: absolute;
+    top: 600px;
+    right: 625px;
+    opacity: 0.0;
+}
+.rr2:hover {
+    background-color: #333;
+    opacity: 1.0;
+}
+
+.rr3 {
+    width: 110px;
+    height: 3px;
+    border-radius: 20px;
+    background-color: #8894df;
+    position: absolute;
+    top: 600px;
+    right: 450px;
+    opacity: 0.0;
+}
+.rr3:hover {
+    background-color: #333;
+    opacity: 1.0;
+}
+
+.contact-box {
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #cdcdcd;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    color: #333;
+}
+.contact-box:hover {
+    width: 170px;
+    height: 140px;
+}
+.email {
+    opacity: 0.0;
+}
+.contact-box:hover > .email{
+    color: #6c75ad;
+    position: absolute;
+    top: 40px;
+    font-size: 15px;
+    font-family: 'Cafe24 Ohsquare';
+    left: 10px;
+    opacity: 1.0;
+}
+
+.phone {
+    opacity: 0.0;
+}
+
+.contact-box:hover .phone {
+    opacity: 1.0;
+    color: #6c75ad;
+    font-size: 15px;
+    position: absolute;
+    top: 90px;
+    left: 10px;
+}
+.re_email{
+    opacity: 0.0;
+}
+.contact-box:hover .re_email {
+    opacity: 1.0;
+    color: #333;
+    font-size: 10px;
+    position: absolute;
+    top: 63px;
+    left: 10px;
+}
+
+.re_phone{
+    opacity: 0.0;
+}
+.contact-box:hover .re_phonea {
+    opacity: 1.0;
+    color: #333;
+    font-size: 10px;
+    position: absolute;
+    top: 110px;
+    left: 10px;
+}
